@@ -1,10 +1,10 @@
 # Hello! 👋  
 
-I am a mobile developer with experience in iOS, and a constant interest in expanding my knowledge across various languages and platforms. My aim is to develop intuitive and valuable applications that enhance user satisfaction. By adhering to industry standards, I endeavor to deliver robust and scalable solutions meeting the needs of users and stakeholders.
+I am a mobile developer with experience in iOS/Flutter, and a constant interest in expanding my knowledge across various languages and platforms. My aim is to develop intuitive and valuable applications that enhance user satisfaction. By adhering to industry standards, I endeavor to deliver robust and scalable solutions meeting the needs of users and stakeholders.
 
 ## 🛠 **Technologies & Tools**
 
-- **Languages**: Swift, Python, C
+- **Languages**: Flutter,Swift, Python, C
 - **Databases**: MYSQL, NoSQL
 - **Version Control**: Git and GitHub
 - **IDEs**: Xcode, Visual Studio
